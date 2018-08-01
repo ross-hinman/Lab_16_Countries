@@ -1,0 +1,7 @@
+c:\users\gc student\Source\Repos\Lab_16_Countries\Lab_16_Countries\bin\Debug\Lab_16_Countries.exe.config
+c:\users\gc student\Source\Repos\Lab_16_Countries\Lab_16_Countries\bin\Debug\Lab_16_Countries.exe
+c:\users\gc student\Source\Repos\Lab_16_Countries\Lab_16_Countries\bin\Debug\Lab_16_Countries.pdb
+c:\users\gc student\Source\Repos\Lab_16_Countries\Lab_16_Countries\obj\Debug\Lab_16_Countries.csprojResolveAssemblyReference.cache
+c:\users\gc student\Source\Repos\Lab_16_Countries\Lab_16_Countries\obj\Debug\Lab_16_Countries.csproj.CoreCompileInputs.cache
+c:\users\gc student\Source\Repos\Lab_16_Countries\Lab_16_Countries\obj\Debug\Lab_16_Countries.exe
+c:\users\gc student\Source\Repos\Lab_16_Countries\Lab_16_Countries\obj\Debug\Lab_16_Countries.pdb
